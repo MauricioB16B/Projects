@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6AF8-60B9
+
+ Directory of C:\Users\mauri\source\repos\The Big Project\Construcao\BaseClient\Debug
+
+13/08/2018  01:41    <DIR>          .
+13/08/2018  01:41    <DIR>          ..
+13/08/2018  01:47            43ÿ008 BaseClient.exe
+13/08/2018  01:47           636ÿ612 BaseClient.ilk
+13/08/2018  01:47           684ÿ032 BaseClient.pdb
+13/08/2018  01:47                 0 stdoutt.txt
+               4 File(s)      1ÿ363ÿ652 bytes
+               2 Dir(s)  59ÿ022ÿ917ÿ632 bytes free
